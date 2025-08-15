@@ -1,6 +1,9 @@
 # opensurgbot_3Dprinted
 3D printed parts of the opensurgbot platform
 
+
+
+
 Finished:
 
 Assembly of the connecting part between servos, slider, and the surgical clip.
@@ -15,11 +18,17 @@ lid.SLDPRT * 1
 
 press.SLDPRT * 1
 
+
+
+
 laser cutting:
 
 丝杆垫片.SLDPRT * 2
 
 丝杆连接件.SLDPRT * 1
+
+
+
 
 To do:
 
