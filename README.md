@@ -2,28 +2,28 @@
 3D printed parts of the opensurgbot platform  
 
 Finished:  
-Assembly of the connecting part between servos, slider, and the surgical clip.  
+Assembly of the connecting part between servos, slider, and the surgical clip.
 
 Files found in /Platform  
 
 <br>
 3D printed items:  
 
-disc_clipper.SLDPRT * 4  
+disc_clipper.SLDPRT * 4
 
-lid.SLDPRT * 1  
+lid.SLDPRT * 1
 
 press.SLDPRT * 1
 
 <br>
-laser cutting:  
+laser cutting:
 
-丝杆垫片.SLDPRT * 2  
+丝杆垫片.SLDPRT * 2
 
 丝杆连接件.SLDPRT * 1
 
 <br>
-To do:  
+To do:
 
 1. Seperate "press.SLDPRT" so that the gap between spring and blocker can be decreased. Might also need to change "lid.SLDPRT" to create room for the seperated parts.
 
